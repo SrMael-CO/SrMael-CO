@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**SrMael-CO/SrMael-CO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![quemiras](https://c.tenor.com/EPezFYu-f1IAAAAi/welcome-vocaloid.gifg) <br/>
 
-Here are some ideas to get you started:
+- Discord bot developer! ✔
+- Actualmente estudiando programación :D. ✔
+- El proyecto en que actualmente trabajo es Kiubi Bot ✔ <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages Y Herramientas ⚙
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
+<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
+<img align="left" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" /> 
+<img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
+
+<br/>
+
+<p align="center">
+<a href="https://discord.gg/dJbE24VWAc">
+    <img src="https://c.tenor.com/jckQWDcU0NEAAAAi/discord-loading-icon.gif" alt="Discord" width="80"/>
+  </a>
